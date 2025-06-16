@@ -4,7 +4,7 @@ I'm passionate about technology, coding, and learning new things.
 
 ## 👋 About Me
 - 🌱 I’m currently learning **Java**
-- 📖 I know **HTML** and **CSS** (excited to gain real experience by building websites!)
+- 📖 I’m familiar with **HTML** and **CSS** (excited to gain real experience by building websites!)
 - 🚀 I’m eager to expand my skills in **Web Development**, **Python**, **C++**, and **Frontend projects**
 - 🎯 I strive to learn more every day!
 
