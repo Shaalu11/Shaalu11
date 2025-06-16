@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Shaalini
+Welcome to my GitHub profile!  
+I'm passionate about technology, coding, and learning new things.
 
+## 👋 About Me
+- 🌱 I’m currently learning **Java**
+- 📖 I know **HTML** and **CSS** (excited to gain real experience by building websites!)
+- 🚀 I’m eager to expand my skills in **Web Development**, **Python**, **C++**, and **Frontend projects**
+- 🎯 I strive to learn more every day!
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shaalini-s-58b160352/)
 <!--
 **Shaalu11/Shaalu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
