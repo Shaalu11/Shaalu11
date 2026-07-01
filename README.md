@@ -1,5 +1,6 @@
 # 💫 About Me:
-<h1>Hi there! I'm Shaalini S</h1><br>💻 Passionate about building practical software and AI-powered applications.<br>🚀 Currently working on personal projects while learning full-stack web development and strengthening my development skills.<br>🌱 I believe there's always something new to learn, and I'm constantly exploring new technologies and frameworks. <br>🤖 Interested in AI, LLMs, RAG systems, backend development, and modern web applications.<br>🤝 I love connecting with people and collaborating on interesting projects. If you have an idea or just want to talk tech, feel free to reach out!
+<h1>Hi there! I'm Shaalini S</h1> 
+💻 Passionate about building practical software and AI-powered applications.<br>🚀 Currently working on personal projects while learning full-stack web development and strengthening my development skills.<br>🌱 I believe there's always something new to learn, and I'm constantly exploring new technologies and frameworks. <br>🤖 Interested in AI, LLMs, RAG systems, backend development, and modern web applications.<br>🤝 I love connecting with people and collaborating on interesting projects. If you have an idea or just want to talk tech, feel free to reach out!
 
 
 # 💻 Tech Stack:
