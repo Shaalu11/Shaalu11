@@ -1,25 +1,15 @@
-## Hi there 👋 I'm Shaalini
-Welcome to my GitHub profile!  
-I'm passionate about technology, coding, and learning new things.
+# 💫 About Me:
+Hi there! I'm Shaalini S<br>💻 Passionate about building practical software and AI-powered applications.<br>🚀 Currently working on personal projects while learning full-stack web development and strengthening my development skills.<br>🌱 I believe there's always something new to learn, and I'm constantly exploring new technologies and frameworks. <br>🤖 Interested in AI, LLMs, RAG systems, backend development, and modern web applications.<br>🤝 I love connecting with people and collaborating on interesting projects. If you have an idea or just want to talk tech, feel free to reach out!
 
-## 👋 About Me
-- 📖 I’m familiar with **HTML** and **CSS** (excited to gain real experience by building websites!)
-- 🚀 I’m eager to expand my skills in **Web Development**, **Python**, **C++**, **Java** and **Frontend projects**
-- 🎯 I strive to learn more every day!
 
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shaalini-s-58b160352/)
-<!--
-**Shaalu11/Shaalu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Shaalu11&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Shaalu11&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shaalu11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Here are some ideas to get you started:
+---
+[![](https://komarev.com/ghpvc/?username=Shaalu11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
