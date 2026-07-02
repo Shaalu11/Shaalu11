@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaalini S</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1800&color=8A2BE2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Thanks+for+stopping+by+%F0%9F%99%82;Let's+build+something+awesome+together!;Hope+you+find+something+interesting+here!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1800&color=8A2BE2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Thanks+for+stopping+by!;Let's+build+something+awesome+together!;Hope+you+find+something+interesting+here!" alt="Typing SVG" />
 </p>
 
 ## 💫 About Me
